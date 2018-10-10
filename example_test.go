@@ -6,7 +6,7 @@ package xurls_test
 import (
 	"fmt"
 
-	"mvdan.cc/xurls"
+	"github.com/CovenantSQL/xurls"
 )
 
 func Example() {
